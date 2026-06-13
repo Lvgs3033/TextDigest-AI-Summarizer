@@ -1,9 +1,4 @@
 # ✨ TextDigest AI Summarizer
-
-> An intelligent document summarizer powered by Google Gemini AI — upload a file or paste text and get a clean, concise summary in seconds.
-> 
----
-
 Live preview : https://textdigest-ai-summarizer.streamlit.app/
 
 ## 📌 Overview
