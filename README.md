@@ -44,17 +44,7 @@ cd TextDigest-AI-Summarizer
 pip install -r requirements.txt
 ```
 
-### 3. Add your API key
-
-Create a `.streamlit/secrets.toml` file in the project root:
-
-```toml
-GOOGLE_API_KEY = "your-gemini-api-key-here"
-```
-
-> Get your free API key at [Google AI Studio](https://aistudio.google.com/app/apikey)
-
-### 4. Run the app
+### 3. Run the app
 
 ```bash
 streamlit run app.py
